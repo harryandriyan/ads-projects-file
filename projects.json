@@ -9,6 +9,11 @@
       "id": "d9a0f6f2-f94a-4eca-8928-e4ee696be4b7",
       "name": "demoin",
       "description": "Demoin app"
+    },
+    {
+      "id": "c79a264f-8239-4650-a990-679e0cdd4bdf",
+      "name": "auth",
+      "description": "Auth App"
     }
   ],
   "templates": []
