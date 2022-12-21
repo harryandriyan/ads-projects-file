@@ -4,6 +4,21 @@
       "id": "663ffa6f-3d5c-4aae-97eb-22818fcaa37f",
       "name": "kripto",
       "description": "kripto App"
+    },
+    {
+      "id": "1f1489ec-fe00-4faa-bb97-c19752ee74ce",
+      "name": "demoin",
+      "description": "Demoin App"
+    },
+    {
+      "id": "8b03f7e8-859e-4d0f-8a60-dde878208968",
+      "name": "demoin",
+      "description": "Demoin App"
+    },
+    {
+      "id": "0ffd47ca-83b0-4617-93f1-ae80fc207307",
+      "name": "demoin",
+      "description": "Demoin App"
     }
   ],
   "templates": []
