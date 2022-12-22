@@ -1,15 +1,7 @@
-{
-  "projects": [
-    {
-      "id": "663ffa6f-3d5c-4aae-97eb-22818fcaa37f",
-      "name": "kripto",
-      "description": "kripto App"
-    },
-    {
-      "id": "97951dda-c10b-41a3-92c3-6bf27edb254c",
-      "name": "demoin",
-      "description": "demoin App"
-    }
-  ],
-  "templates": []
-}
+[
+  {
+    "id": "663ffa6f-3d5c-4aae-97eb-22818fcaa37f",
+    "name": "kripto",
+    "description": "kripto App"
+  }
+]
