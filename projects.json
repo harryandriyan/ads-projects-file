@@ -9,6 +9,11 @@
       "id": "763ffa6f-3d5c-4aae-97eb-22818fcaa37f",
       "name": "demoin",
       "description": "demoin App"
+    },
+    {
+      "id": "04c144b6-307f-49bd-8f57-1b354a9f9b80",
+      "name": "momo",
+      "description": "momo app"
     }
   ],
   "templates": []
