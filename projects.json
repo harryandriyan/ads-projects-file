@@ -9,6 +9,11 @@
       "id": "763ffa6f-3d5c-4aae-97eb-22818fcaa37f",
       "name": "demoin",
       "description": "demoin App"
+    },
+    {
+      "id": "1c0e0f2a-e19d-4670-a766-30ad06d02b9e",
+      "name": "test",
+      "description": "test app"
     }
   ],
   "templates": []
