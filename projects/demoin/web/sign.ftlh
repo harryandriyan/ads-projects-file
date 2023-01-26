@@ -71,7 +71,7 @@
           <div class="flex">
             <img src="https://gluu.org/wp-content/uploads/2020/12/logo.png"/>
           </div>
-          <span class="text-2xl font-semi-bold leading-normal">Sign in</span>
+          <span class="text-2xl font-semi-bold leading-normal">Sign in [edited]</span>
           <p class="leading-normal">Use your Email or Phone Number
           </p>
         </div>
