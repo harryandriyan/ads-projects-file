@@ -1,0 +1,23 @@
+{
+  "kripto": {
+    "name": "kripto",
+    "description": "Description of the kripto project",
+    "project_type": "Community",
+    "author": "harryandriyan",
+    "locale": "en_US"
+  },
+  "demoin": {
+    "name": "demoin",
+    "description": "Description of the demoin project",
+    "project_type": "Community",
+    "author": "harryandriyan",
+    "locale": "en_US"
+  },
+  "momo": {
+    "name": "momo",
+    "description": "Description of the momo project",
+    "project_type": "Community",
+    "author": "harryandriyan",
+    "locale": "en_US"
+  }
+}
